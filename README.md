@@ -10,8 +10,8 @@ Here are the tools and technologies I love working with:
 - **Tools**: Git, VS Code, Make
 
 ## 🌟 Featured Projects
-- **[Project Name](#)**: A brief description of the project.
-- **[Another Project](#)**: Something else awesome I've worked on.
+- **[Project Name](#)**: wait.
+- **[Another Project](#)**: wait.
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blueelektor&show_icons=true&theme=modern)
