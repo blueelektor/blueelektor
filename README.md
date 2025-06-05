@@ -18,6 +18,6 @@ Here are the tools and technologies I love working with:
 
 ## 🌐 Connect with Me
 - **YouTube**: [@blue51213](https://www.youtube.com/@blue51213)
-- **e-mail**: [@adelsys@naver.com)
+- **e-mail**: [adelsys@naver.com)
 
 Let's collaborate and build something amazing!
