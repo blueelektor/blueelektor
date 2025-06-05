@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Welcome to blueelektor!
 
-<!--
-**blueelektor/blueelektor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎥 About My YouTube Channel
+Check out my creative content and videos on YouTube: [@blue51213](https://www.youtube.com/@blue51213). I share insights, tutorials, and fun projects that inspire and empower!
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+Here are the tools and technologies I love working with:
+- **Languages**: C/C++, Go, Rust, Python
+- **Frameworks**: Native, Baremetal
+- **Tools**: Git, VS Code, Make
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Projects
+- **[Project Name](#)**: A brief description of the project.
+- **[Another Project](#)**: Something else awesome I've worked on.
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blueelektor&show_icons=true&theme=modern)
+
+## 🌐 Connect with Me
+- **YouTube**: [@blue51213](https://www.youtube.com/@blue51213)
+- **e-mail**: [@adelsys@naver.com)
+
+Let's collaborate and build something amazing!
